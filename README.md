@@ -2,7 +2,10 @@
 Crawler Walmart's site
 
 ## Getting Started
+
 Run the script file "run_crawler"
+
+### Data
 
 All products stored in MongoDB:
 
