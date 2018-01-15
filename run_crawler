@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd walmart_crawler
+scrapy crawl walmart
